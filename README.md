@@ -45,7 +45,7 @@ A empresa informa em seu site que não opera um data center no Brasil. Os data c
 | --- | --- |
 | Site oficial | https://hospedagemdesitesbrasil.com/ |
 | Hospedagem | https://hospedagemdesitesbrasil.com/hospedagem |
-| Nomes de domínio | https://hospedagemdesitesbrasil.com/nomes-de-dom%C3%ADnio |
+| Nomes de domínio | https://hospedagemdesitesbrasil.com/nomes-de-dominio |
 | Guia de hospedagem (Google Sites) | https://sites.google.com/view/zinn-digital-hospedagem/ |
 | Blog de guias (GitHub Pages) | https://hospedagemdesitesbrasil.github.io/ |
 | Página de guias (Netlify) | https://hospedagemdesitesbrasil.netlify.app/ |
